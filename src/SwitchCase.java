@@ -5,7 +5,7 @@ public class SwitchCase {
         Scanner sc = new Scanner(System.in);
 
         int x = sc.nextInt();
-        String dia = "";
+        String dia;
 
         switch (x){
             case 1:
