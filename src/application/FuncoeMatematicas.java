@@ -1,3 +1,5 @@
+package application;
+
 public class FuncoeMatematicas {
     public static void main(String[] args) {
         double x = 3.0;

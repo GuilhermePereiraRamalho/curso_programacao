@@ -1,3 +1,5 @@
+package application;
+
 public class AreaTrapezio {
     public static void main(String[] args) {
         double b, B, h, area;
